@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Feralwater/SocialNetworkDemo/static/css/main.0d0d26da.chunk.css",
+    "main.js": "/Feralwater/SocialNetworkDemo/static/js/main.389363ac.chunk.js",
+    "main.js.map": "/Feralwater/SocialNetworkDemo/static/js/main.389363ac.chunk.js.map",
+    "runtime-main.js": "/Feralwater/SocialNetworkDemo/static/js/runtime-main.127f11b2.js",
+    "runtime-main.js.map": "/Feralwater/SocialNetworkDemo/static/js/runtime-main.127f11b2.js.map",
+    "static/js/2.e72b5015.chunk.js": "/Feralwater/SocialNetworkDemo/static/js/2.e72b5015.chunk.js",
+    "static/js/2.e72b5015.chunk.js.map": "/Feralwater/SocialNetworkDemo/static/js/2.e72b5015.chunk.js.map",
+    "static/css/3.be950d7a.chunk.css": "/Feralwater/SocialNetworkDemo/static/css/3.be950d7a.chunk.css",
+    "static/js/3.3e0f43d1.chunk.js": "/Feralwater/SocialNetworkDemo/static/js/3.3e0f43d1.chunk.js",
+    "static/js/3.3e0f43d1.chunk.js.map": "/Feralwater/SocialNetworkDemo/static/js/3.3e0f43d1.chunk.js.map",
+    "static/css/4.f421ea57.chunk.css": "/Feralwater/SocialNetworkDemo/static/css/4.f421ea57.chunk.css",
+    "static/js/4.d576afb5.chunk.js": "/Feralwater/SocialNetworkDemo/static/js/4.d576afb5.chunk.js",
+    "static/js/4.d576afb5.chunk.js.map": "/Feralwater/SocialNetworkDemo/static/js/4.d576afb5.chunk.js.map",
+    "static/js/5.2cc67d98.chunk.js": "/Feralwater/SocialNetworkDemo/static/js/5.2cc67d98.chunk.js",
+    "static/js/5.2cc67d98.chunk.js.map": "/Feralwater/SocialNetworkDemo/static/js/5.2cc67d98.chunk.js.map",
+    "index.html": "/Feralwater/SocialNetworkDemo/index.html",
+    "static/css/3.be950d7a.chunk.css.map": "/Feralwater/SocialNetworkDemo/static/css/3.be950d7a.chunk.css.map",
+    "static/css/4.f421ea57.chunk.css.map": "/Feralwater/SocialNetworkDemo/static/css/4.f421ea57.chunk.css.map",
+    "static/css/main.0d0d26da.chunk.css.map": "/Feralwater/SocialNetworkDemo/static/css/main.0d0d26da.chunk.css.map",
+    "static/js/2.e72b5015.chunk.js.LICENSE.txt": "/Feralwater/SocialNetworkDemo/static/js/2.e72b5015.chunk.js.LICENSE.txt",
+    "static/media/Header.module.css": "/Feralwater/SocialNetworkDemo/static/media/3.d6ab43de.PNG",
+    "static/media/preloader.95e0b104.svg": "/Feralwater/SocialNetworkDemo/static/media/preloader.95e0b104.svg",
+    "static/media/user.c0c9dc5a.jpg": "/Feralwater/SocialNetworkDemo/static/media/user.c0c9dc5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.127f11b2.js",
+    "static/js/2.e72b5015.chunk.js",
+    "static/css/main.0d0d26da.chunk.css",
+    "static/js/main.389363ac.chunk.js"
+  ]
+}
